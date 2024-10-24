@@ -15,8 +15,8 @@ Follow these steps to set up and run the project using a virtual environment.
 1. Clone the Repository
 Open a terminal and run:
 
-git clone <REPO_URL>
-cd <PROJECT_DIRECTORY>
+git clone https://github.com/sidharth0909/Real-Time-Stock-Dashboard.git
+cd Real-Time-Stock-Dashboard
 
 2. Create a Virtual Environment
 Create a virtual environment to manage the dependencies locally:
