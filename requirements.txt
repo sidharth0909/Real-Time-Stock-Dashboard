@@ -1,0 +1,6 @@
+streamlit==1.27.2
+pandas==1.5.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+yfinance==0.2.18
+streamlit-autorefresh==0.1.0
